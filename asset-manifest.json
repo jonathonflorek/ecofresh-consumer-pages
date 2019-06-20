@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecofresh-consumer-pages/static/css/main.31ffd34e.chunk.css",
+    "main.js": "/ecofresh-consumer-pages/static/js/main.7d4e3a39.chunk.js",
+    "main.js.map": "/ecofresh-consumer-pages/static/js/main.7d4e3a39.chunk.js.map",
+    "runtime~main.js": "/ecofresh-consumer-pages/static/js/runtime~main.f8647894.js",
+    "runtime~main.js.map": "/ecofresh-consumer-pages/static/js/runtime~main.f8647894.js.map",
+    "static/js/2.a9c69ca1.chunk.js": "/ecofresh-consumer-pages/static/js/2.a9c69ca1.chunk.js",
+    "static/js/2.a9c69ca1.chunk.js.map": "/ecofresh-consumer-pages/static/js/2.a9c69ca1.chunk.js.map",
+    "index.html": "/ecofresh-consumer-pages/index.html",
+    "precache-manifest.63918e3d1f6da4952a48a23d6e232457.js": "/ecofresh-consumer-pages/precache-manifest.63918e3d1f6da4952a48a23d6e232457.js",
+    "service-worker.js": "/ecofresh-consumer-pages/service-worker.js",
+    "static/css/main.31ffd34e.chunk.css.map": "/ecofresh-consumer-pages/static/css/main.31ffd34e.chunk.css.map"
+  }
+}
